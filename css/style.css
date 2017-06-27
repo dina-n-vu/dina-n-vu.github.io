@@ -55,3 +55,23 @@ p {
 footer.page-footer {
   margin: 0;
 }
+
+.rotate-90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+
+.card-image img {
+  height: 100%;
+}
+.right-content {
+  width: 60%;
+  float: left;
+}
+.card-title {
+  padding-left: 20px;
+}
